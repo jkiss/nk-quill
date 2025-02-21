@@ -1,3 +1,7 @@
+> this is a copy of official Quill.js(2.0.3), just make some custom modify, e.g.:
+> 
+> 1. delete toolbar input's placeholder text
+
 <h1 align="center">
   <a href="https://quilljs.com/" title="Quill">Quill Rich Text Editor</a>
 </h1>
