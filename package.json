@@ -62,11 +62,11 @@
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/slab/quill.git",
+    "url": "git+https://github.com/jkiss/nk-quill.git",
     "directory": "packages/quill"
   },
   "bugs": {
-    "url": "https://github.com/slab/quill/issues"
+    "url": "https://github.com/jkiss/nk-quill/issues"
   },
   "prettier": {
     "singleQuote": true
